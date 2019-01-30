@@ -1,0 +1,31 @@
+{
+  "name": "knockout-ease",
+  "version": "1.0.0",
+  "description": "Easy to use knockout without parentheses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenlz123/knockout-ease.git"
+  },
+  "keywords": [
+    "knockout"
+  ],
+  "author": "Lee Wen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wenlz123/knockout-ease/issues"
+  },
+  "homepage": "https://github.com/wenlz123/knockout-ease#readme",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0"
+  },
+  "peerDependencies": {
+    "knockout": ">=2.2.0"
+  }
+}
